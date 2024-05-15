@@ -1,4 +1,4 @@
-# Netflix-Data
+# Netflix Data
 
 In questo progetto, l'obiettivo sarà quello di creare un menu tramite python in grado di gestire un database contenente i film e gli show di Netflix.<br><br>
 
